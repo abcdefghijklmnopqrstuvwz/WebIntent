@@ -1,0 +1,23 @@
+{
+  "name": "net.tunts.webintent",
+  "version": "0.2.1",
+  "description": "WebIntent",
+  "cordova": {
+    "id": "net.tunts.webintent",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abcdefghijklmnopqrstuvwz/net.tunts.webintent"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova": ">100"
+      }
+    }
+  }
+}
